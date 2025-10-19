@@ -1,14 +1,6 @@
 {
-  "users": [
-    {
-      "phone": "6282235751054",
-      "username": "trezz",
-      "password": "trezzdev"
-    },
-    {
-      "phone": "6289518172601",
-      "username": "tama",
-      "password": "ganteng123"
-    }
-  ]
+  "number": [
+    "6282235751054",
+    "6285180542092"
+   ]
 }
